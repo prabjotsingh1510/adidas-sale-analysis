@@ -1,4 +1,4 @@
-# adidas-sale-analysis
+# Adidas Sale Analysis
 The dashboard provides a comprehensive overview of key business metrics such as Total Sales ($900M), Units Sold (2M), Operating Profit ($332M), Operating Margin (42%), and Average Price per Unit ($45). Interactive visuals enable users to explore monthly sales trends, state-wise and region-wise performance, top-selling products, and leading retailers.
 
 Key Features:
